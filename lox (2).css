@@ -1,0 +1,57 @@
+h1{
+font-family: Comic Sans MS, Comic Sans, cursive;
+color: rgb(207, 187, 0);
+
+}
+header{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPc6-py7-_LhZgqUh7k1fLww8MSnC8vGBl4UaAb2ZjXW1kl4ehdpQsFM2Li0B1_eL6mvg&usqp=CAU")  ;
+    background-size: 100% auto;
+    
+
+}
+
+body{
+min-width: 1200px;
+
+}
+a{
+    font-size: 50px;
+    color: brown;
+}
+
+.frittata{
+    width: 150px;
+    border-radius: 20px;
+}
+main{
+    background-image:url("https://grandkulinar.ru/uploads/posts/2017-03/1488547884_italyanskij-tomatnyj-sous-k-makaronam-ne-trebuyushhij-prigotovleniya.jpg") ;
+    background-size: 100% auto;
+}
+.pecent{
+    font-family:Comic Sans MS, Comic Sans, cursive; ;
+    font-size: 150px;
+}
+.top{
+font-family: Comic Sans MS, Comic Sans, cursive;;
+font-size: 150px;
+}
+ul{
+    font-size: 40px;
+    font-family:Comic Sans MS, Comic Sans, cursive; }
+.op{
+    font-family: Bradley Hand, cursive ;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+.jcis{
+    border-radius: 30px;
+}
+.gh{
+    border-radius: 30px;
+}
+footer{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Baby.jpg/640px-Baby.jpg");
+}
+.h{
+    font-size: 500px;
+}
